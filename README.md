@@ -93,7 +93,7 @@ I’m **Salman Adeeb**, a **Cyber Security student** and **digital tech creator*
   <a href="https://www.adeebtechlab.com">
     <img src="https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:info@adeebtechlab.com">
+  <a href="info.AdeebTechLab@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
