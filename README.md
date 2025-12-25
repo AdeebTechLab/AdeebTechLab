@@ -1,7 +1,8 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="cyber security gif"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=ADEEB%20TECH%20LAB&fontSize=45&fontColor=ffffff&desc=Cyber%20Security%20|%20Creative%20Development&descAlignY=65&color=0:1e3c72,100:2a5298&animation=fadeIn" />
 </p>
+
 
 <h1 align="center">Hi, I'm <span style="color:#1E90FF">Adeeb</span> 👋</h1>
 <h3 align="center">Cyber Security Enthusiast | Digital Tech Expert | Creative Developer</h3>
@@ -13,6 +14,11 @@
 ---
 
 ## 👨‍💻 About Me
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="180" />
+</p>
+
+
 I’m **Salman Adeeb**, a **Cyber Security student** and **digital tech creator** who blends security, development, and creativity.
 
 - 🎓 Finishing **BS Cyber Security** at **IUB**
@@ -25,12 +31,7 @@ I’m **Salman Adeeb**, a **Cyber Security student** and **digital tech creator*
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Cyber%20Security-0A1AFF?style=flat&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-GitHub-lightgrey?style=flat&logo=github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=dark" />
 </p>
 
 ---
@@ -68,15 +69,13 @@ I’m **Salman Adeeb**, a **Cyber Security student** and **digital tech creator*
 
 ---
 
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdeebTechLab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdeebTechLab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeebTechLab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AdeebTechLab&theme=github-dark&hide_border=true" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdeebTechLab&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ## 📈 GitHub Activity Graph
 <p align="center">
@@ -102,6 +101,13 @@ I’m **Salman Adeeb**, a **Cyber Security student** and **digital tech creator*
 
 <p align="center">
   <i>Open to collaborations involving creativity, security, and code.</i>
+</p>
+
+
+<p align="center">
+  <a href="https://www.adeebtechlab.com">
+    <img src="https://img.shields.io/badge/Visit%20Adeeb%20Tech%20Lab-3D%20Experience-1e90ff?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 
