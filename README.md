@@ -290,7 +290,7 @@ width="100%"/>
 <p align="left">
   <img
   src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&hide_border=true&layout=compact&card_width=900"
-  width="90%" />
+  width="100%" />
 </p>
 
 <br>
