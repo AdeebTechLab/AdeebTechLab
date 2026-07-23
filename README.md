@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner - Deep Dark Navy -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:050B18,100:000814&height=250&section=header&text=Adeeb%20Tech%20Lab&fontSize=55&fontColor=FF8E01&animation=twinkling&desc=Cyber%20Security%20%7C%20Development%20%7C%20Creativity&descAlignY=63&descSize=18&descColor=CCD6F6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:050B18,100:000814&height=250&section=header&text=Adeeb%20Technology%20Lab&fontSize=55&fontColor=FF8E01&animation=twinkling&desc=Cyber%20Security%20%7C%20Development%20%7C%20Creativity&descAlignY=63&descSize=18&descColor=CCD6F6" width="100%"/>
 
 <!-- Typing Animation - Orange Accent -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=FF8E01&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Salman+Adeeb+%F0%9F%91%8B;Cyber+Security+Student+%40+IUB;Founder+Of+Adeeb+Tech+Lab" alt="Typing SVG"/>
