@@ -1,117 +1,163 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=ADEEB%20TECH%20LAB&fontSize=45&fontColor=ffffff&desc=Cyber%20Security%20|%20Creative%20Development&descAlignY=65&color=0:1e3c72,100:2a5298&animation=fadeIn" />
-</p>
+<div align="center">
 
+<!-- Animated Header Banner - Deep Dark Navy -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:050B18,100:000814&height=250&section=header&text=Adeeb%20Tech%20Lab&fontSize=55&fontColor=FF8E01&animation=twinkling&desc=Cyber%20Security%20%7C%20Development%20%7C%20Creativity&descAlignY=63&descSize=18&descColor=CCD6F6" width="100%"/>
 
-<h1 align="center">Hi, I'm <span style="color:#1E90FF">Adeeb</span> 👋</h1>
-<h3 align="center">Cyber Security Enthusiast | Digital Tech Expert | Creative Developer</h3>
+<!-- Typing Animation - Orange Accent -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=FF8E01&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Salman+Adeeb+%F0%9F%91%8B;Cyber+Security+Student+%40+IUB;Founder+Of+Adeeb+Tech+Lab" alt="Typing SVG"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdeebTechLab&label=Profile%20Views&color=blue&style=flat" />
-</p>
+<br/>
 
----
+<a href="https://play.google.com/store/apps/dev?id=6026600562723209564">
+<img src="https://img.shields.io/badge/PLAY%20STORE-0A1628?style=for-the-badge&logo=googleplay&logoColor=FF8E01"/>
+</a>
+
+<a href="https://apps.microsoft.com/search/publisher?name=Adeeb+Technology+Lab&hl=en-US&gl=US">
+<img src="https://img.shields.io/badge/MICROSOFT%20STORE-0A1628?style=for-the-badge&logo=windows&logoColor=FF8E01"/>
+</a>
+
+<a href="https://chromewebstore.google.com/search/Adeeb%20Technology%20Lab">
+<img src="https://img.shields.io/badge/CHROME%20STORE-0A1628?style=for-the-badge&logo=googlechrome&logoColor=FF8E01"/>
+</a>
+
+<a href="https://www.blogger.com/profile/04238200063616843720">
+<img src="https://img.shields.io/badge/BLOGS-0A1628?style=for-the-badge&logo=blogger&logoColor=FF8E01"/>
+</a>
+
+<a href="https://www.linkedin.com/in/salmanadeeb2/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A1628?style=for-the-badge&logo=linkedinin&logoColor=FF8E01&labelColor=0A1628"/>
+</a>
+
+<a href="https://wa.me/923092333121?text=Hi%20Salman%20Adeeb!%20👋%20I%20came%20across%20your%20GitHub%20profile%20and%20was%20impressed%20by%20your%20work.%20I'd%20like%20to%20connect%20and%20discuss%20about%20projects." target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-0A1628?style=for-the-badge&logo=whatsapp&logoColor=FF8E01"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AdeebTechLab&label=Profile%20Views&color=0A1628&style=for-the-badge&labelColor=FF8E01"/>
+
+</div>
+
+<br/>
 
 ## 👨‍💻 About Me
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="180" />
-</p>
 
+<table>
+<tr>
+<td width="60%">
 
-I’m **Salman Adeeb**, a **Cyber Security student** and **digital tech creator** who blends security, development, and creativity.
+**Salman Adeeb** — Cyber Security student at **IUB**, blending **security, development & creativity**.
 
-- 🎓 Finishing **BS Cyber Security** at **IUB**
-- 🔐 Passionate about **Cyber Security & Digital Safety**
-- 💻 Skilled in **development & modern tech tools**
-- 🎨 Strong background in **design, animation & media**
-- 🚀 Founder & creator behind **Adeeb Tech Lab**
+- 🔐 Cyber Security 
+- 💻 Web Developer
+- 🎨 Graphic Designer & video Editor
+- 🚀 Founder of **Adeeb Tech Lab**
 
----
+</td>
+<td width="40%" align="center">
 
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="180" alt="Coding Animation" />
+
+</td>
+
+</tr> </table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,50:050B18,100:000814&height=3&animation=fadeIn" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma&theme=dark" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,50:FF8E01,100:000814&height=4&animation=blinking" width="100%"/>
+
+<img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=60&bg=0A1628&shape=circle" title="HTML5" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=60&bg=0A1628&shape=circle" title="CSS3" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=60&bg=0A1628&shape=circle" title="JavaScript" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=git&size=60&bg=0A1628&shape=circle" title="Git" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=60&bg=0A1628&shape=circle&color=FF8E01" title="GitHub" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=60&bg=0A1628&shape=circle" title="Figma" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=androidstudio&size=60&bg=0A1628&shape=circle" title="Android Studio" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=kotlin&size=60&bg=0A1628&shape=circle" title="Kotlin" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=java&size=60&bg=0A1628&shape=circle" title="Java" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=python&size=60&bg=0A1628&shape=circle" title="Python" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,50:FF8E01,100:000814&height=4&animation=blinking" width="100%"/>
+</div>
+
+<br/>
+
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
+
+<br/>
+
+# 📊 GitHub Stats:
+
+<table width="100%">
+<tr>
+
+<td align="center" width="50%">
+
+<img
+src="https://github-readme-stats.shion.dev/api?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&icon_color=FF8E01&hide_border=true"
+width="100%"/>
+
+</td>
+
+<td align="center" width="50%">
+
+<img
+src="https://streak-stats.demolab.com/?user=AdeebTechLab&background=00000000&ring=FF8E01&fire=FF8E01&currStreakLabel=FF8E01&sideLabels=CCD6F6&currStreakNum=CCD6F6&sideNums=CCD6F6&dates=8892B0&hide_border=true"
+width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="left">
+  <img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdeebTechLab&bg_color=00000000&title_color=FF8E01&text_color=CCD6F6&hide_border=true&layout=compact&card_width=900"
+  width="90%" />
 </p>
 
----
-
-## 💼 What I Can Do
-- 🔐 Understand & implement **basic security concepts**
-- 🌐 Build **web-based projects**
-- 🎨 Design **UI/UX workflows**
-- 🎥 Create **media, animations & digital content**
-- 🛠️ Experiment with **new tech tools & stacks**
-
----
-
-## 📌 Projects
-📂 My repositories include:
-- Cyber security learning & experiments  
-- Web development projects  
-- UI/UX & creative tech work  
-- Digital & media-based solutions  
-
-👉 *Each project reflects my growth across security, creativity, and development.*
-
----
-
-## 🚀 Featured Work
-<p align="center">
-  <a href="https://www.adeebtechlab.com">
-    <img src="https://img.shields.io/badge/Adeeb%20Tech%20Lab-Official%20Website-blue?style=for-the-badge&logo=google-chrome" alt="Adeeb Tech Lab Website" />
-  </a>
-</p>
+<br>
 
 <p align="center">
-  Explore projects that combine <strong>security, creativity, and code</strong>.
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=AdeebTechLab&hide_border=true&bg_color=00000000&color=FF8E01&line=FF8E01&point=CCD6F6&area=true&area_color=FF8E01"
+width="90%"/>
+
 </p>
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000814,100:050B18&height=3" width="100%"/>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AdeebTechLab&theme=github-dark&hide_border=true" />
+## 🐍 Contribution Snake
+
+<img width="100%" src="https://raw.githubusercontent.com/AdeebTechLab/AdeebTechLab/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,100:000814&height=3" width="100%"/>
+
+</div>
+
+<br/>
+
+
+
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:050B18,100:000814&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=FF8E01&animation=twinkling" width="100%"/>
 
-## 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeebTechLab&bg_color=f7f7f7&color=1e90ff&line=000000&point=1839dc&area=true&hide_border=true" alt="Adeeb's GitHub activity graph"/>
-</p>
-
----
-
-## 📫 Contact Me
-<p align="center">
-  <a href="https://github.com/AdeebTechLab">
-    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.adeebtechlab.com">
-    <img src="https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="info.AdeebTechLab@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Open to collaborations involving creativity, security, and code.</i>
-</p>
-
-
-<p align="center">
-  <a href="https://www.adeebtechlab.com">
-    <img src="https://img.shields.io/badge/Visit%20Adeeb%20Tech%20Lab-3D%20Experience-1e90ff?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-
-<!---
-AdeebTechLab/AdeebTechLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
