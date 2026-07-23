@@ -299,7 +299,7 @@ width="100%"/>
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=AdeebTechLab&hide_border=true&bg_color=00000000&color=FF8E01&line=FF8E01&point=CCD6F6&area=true&area_color=FF8E01"
-width="90%"/>
+width="100%"/>
 
 </p>
 
