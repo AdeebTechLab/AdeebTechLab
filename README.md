@@ -94,6 +94,169 @@
 <br/>
 
 <!--START_SECTION:projects-->
+<div align="center">
+
+## 🚀 Featured Projects
+
+<table align="center" cellspacing="18" cellpadding="0" border="0" style="border:none; border-collapse:separate; margin:0 auto;">
+
+<tr style="border:none;">
+
+<td width="50%" valign="top" align="center" style="border:none;">
+
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
+    border-collapse:collapse;
+    background:transparent;
+  ">
+<tr style="border:none;">
+<td align="center" style="border:none;">
+
+<h2 align="center">🚀 LMS-Adeeb-Technology-Lab</h2>
+
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/⭐-1-FF8E01?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+</p>
+
+<br>
+
+<a href="https://github.com/AdeebTechLab/LMS-Adeeb-Technology-Lab">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+<td width="50%" valign="top" align="center" style="border:none;">
+
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
+    border-collapse:collapse;
+    background:transparent;
+  ">
+<tr style="border:none;">
+<td align="center" style="border:none;">
+
+<h2 align="center">🚀 IUB-Portals-All-in-One-WabApp</h2>
+
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+</p>
+
+<br>
+
+<a href="https://github.com/AdeebTechLab/IUB-Portals-All-in-One-WabApp">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+<tr style="border:none;">
+
+<td width="50%" valign="top" align="center" style="border:none;">
+
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
+    border-collapse:collapse;
+    background:transparent;
+  ">
+<tr style="border:none;">
+<td align="center" style="border:none;">
+
+<h2 align="center">🚀 Fast-Food-Website-With-Manu</h2>
+
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+</p>
+
+<br>
+
+<a href="https://github.com/AdeebTechLab/Fast-Food-Website-With-Manu">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+<td width="50%" valign="top" align="center" style="border:none;">
+
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
+    border-collapse:collapse;
+    background:transparent;
+  ">
+<tr style="border:none;">
+<td align="center" style="border:none;">
+
+<h2 align="center">🚀 AdeebTechLab.com</h2>
+
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/●-HTML-e34c26?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+</p>
+
+<br>
+
+<a href="https://github.com/AdeebTechLab/AdeebTechLab.com">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 <!--END_SECTION:projects-->
 
 <br/>
