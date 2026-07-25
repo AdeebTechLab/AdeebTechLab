@@ -112,13 +112,13 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 ZAZ-Collection-Store</h2>
+<h2 align="center">🚀 Adeeb-AI-Voice-interview-Agent-Desktop</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-HTML-e34c26?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-Python-3572A5?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
@@ -128,7 +128,7 @@
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/ZAZ-Collection-Store">
+<a href="https://github.com/AdeebTechLab/Adeeb-AI-Voice-interview-Agent-Desktop">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
@@ -149,13 +149,13 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 Adeeb-AI-Voice-interview-Agent-Desktop</h2>
+<h2 align="center">🚀 ZAZ-Collection-Store</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-Python-3572A5?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-HTML-e34c26?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
@@ -165,7 +165,7 @@
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/Adeeb-AI-Voice-interview-Agent-Desktop">
+<a href="https://github.com/AdeebTechLab/ZAZ-Collection-Store">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
