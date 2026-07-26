@@ -226,7 +226,7 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 LMS-Adeeb-Technology-Lab</h2>
+<h2 align="center">🚀 IUB_Portals_New_Tab</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
@@ -236,13 +236,13 @@
 
 <img src="https://img.shields.io/badge/⭐-1-FF8E01?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/🍴-1-CCD6F6?style=flat-square"/>
 
 </p>
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/LMS-Adeeb-Technology-Lab">
+<a href="https://github.com/AdeebTechLab/IUB_Portals_New_Tab">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
