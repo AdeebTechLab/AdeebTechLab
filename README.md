@@ -112,6 +112,43 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
+<h2 align="center">🚀 The-Computer-Courses-Web</h2>
+
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/●-HTML-e34c26?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/⭐-3-FF8E01?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+</p>
+
+<br>
+
+<a href="https://github.com/AdeebTechLab/The-Computer-Courses-Web">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+<td width="50%" valign="top" align="center" style="border:none;">
+
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
+    border-collapse:collapse;
+    background:transparent;
+  ">
+<tr style="border:none;">
+<td align="center" style="border:none;">
+
 <h2 align="center">🚀 Madrasa-LMS-WebApp</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
@@ -138,6 +175,9 @@
 
 </td>
 
+</tr>
+
+<tr style="border:none;">
 
 <td width="50%" valign="top" align="center" style="border:none;">
 
@@ -175,9 +215,6 @@
 
 </td>
 
-</tr>
-
-<tr style="border:none;">
 
 <td width="50%" valign="top" align="center" style="border:none;">
 
@@ -206,43 +243,6 @@
 <br>
 
 <a href="https://github.com/AdeebTechLab/LMS-Adeeb-Technology-Lab-Software">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</td>
-
-
-<td width="50%" valign="top" align="center" style="border:none;">
-
-<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
-    border:none !important;
-    border-collapse:collapse;
-    background:transparent;
-  ">
-<tr style="border:none;">
-<td align="center" style="border:none;">
-
-<h2 align="center">🚀 Adeeb-Technology-Lab-New-Tab</h2>
-
-<hr style="border:none; border-top:1px solid #30363d; width:80%;">
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/⭐-2-FF8E01?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/🍴-1-CCD6F6?style=flat-square"/>
-
-</p>
-
-<br>
-
-<a href="https://github.com/AdeebTechLab/Adeeb-Technology-Lab-New-Tab">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
