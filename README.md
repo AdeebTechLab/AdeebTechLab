@@ -118,7 +118,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
