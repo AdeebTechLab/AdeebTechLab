@@ -120,7 +120,7 @@
 
 <img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/⭐-1-FF8E01?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-2-FF8E01?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
