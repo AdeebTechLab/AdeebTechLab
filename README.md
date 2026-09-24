@@ -112,6 +112,43 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
+<h2 align="center">🚀 Jewelry-Stores-whatsapp-order</h2>
+
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/●-TypeScript-3178c6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+</p>
+
+<br>
+
+<a href="https://github.com/AdeebTechLab/Jewelry-Stores-whatsapp-order">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+<td width="50%" valign="top" align="center" style="border:none;">
+
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
+    border-collapse:collapse;
+    background:transparent;
+  ">
+<tr style="border:none;">
+<td align="center" style="border:none;">
+
 <h2 align="center">🚀 TS-urban-allied-services-Enterprises-private-Limited-Website</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
@@ -138,6 +175,9 @@
 
 </td>
 
+</tr>
+
+<tr style="border:none;">
 
 <td width="50%" valign="top" align="center" style="border:none;">
 
@@ -149,63 +189,23 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 Adeeb-Online-Attendance-System-WebApp</h2>
+<h2 align="center">🚀 Marriage-Beuro-admin-panel</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-TypeScript-3178c6?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-Other-8892B0?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/🍴-1-CCD6F6?style=flat-square"/>
-
-</p>
-
-<br>
-
-<a href="https://github.com/AdeebTechLab/Adeeb-Online-Attendance-System-WebApp">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-
-<tr style="border:none;">
-
-<td width="50%" valign="top" align="center" style="border:none;">
-
-<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
-    border:none !important;
-    border-collapse:collapse;
-    background:transparent;
-  ">
-<tr style="border:none;">
-<td align="center" style="border:none;">
-
-<h2 align="center">🚀 Adeeb-Technology-Lab-Website</h2>
-
-<hr style="border:none; border-top:1px solid #30363d; width:80%;">
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/●-HTML-e34c26?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/⭐-2-FF8E01?style=flat-square"/>
-
 <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
 </p>
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/Adeeb-Technology-Lab-Website">
+<a href="https://github.com/AdeebTechLab/Marriage-Beuro-admin-panel">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
@@ -226,15 +226,15 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 The-Computer-Courses-Web</h2>
+<h2 align="center">🚀 Fast-Food-website-admin-menu-Whastapp-orders</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-HTML-e34c26?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-Other-8892B0?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/⭐-3-FF8E01?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
@@ -242,7 +242,7 @@
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/The-Computer-Courses-Web">
+<a href="https://github.com/AdeebTechLab/Fast-Food-website-admin-menu-Whastapp-orders">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
