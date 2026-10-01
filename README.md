@@ -112,13 +112,13 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 TS-urban-allied-services-Enterprises-private-Limited-Website</h2>
+<h2 align="center">🚀 Marriage-Beuro-admin-panel</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
@@ -128,7 +128,7 @@
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/TS-urban-allied-services-Enterprises-private-Limited-Website">
+<a href="https://github.com/AdeebTechLab/Marriage-Beuro-admin-panel">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
@@ -149,13 +149,13 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 Marriage-Beuro-admin-panel</h2>
+<h2 align="center">🚀 TS-urban-allied-services-Enterprises-private-Limited-Website</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-Other-8892B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
@@ -165,7 +165,7 @@
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/Marriage-Beuro-admin-panel">
+<a href="https://github.com/AdeebTechLab/TS-urban-allied-services-Enterprises-private-Limited-Website">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
