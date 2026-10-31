@@ -112,13 +112,13 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 JF-Fashion-Cloth-Store-website</h2>
+<h2 align="center">🚀 aster-cloud-cpanal-for-competing-server</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-TypeScript-3178c6?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
@@ -128,7 +128,7 @@
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/JF-Fashion-Cloth-Store-website">
+<a href="https://github.com/AdeebTechLab/aster-cloud-cpanal-for-competing-server">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
@@ -149,13 +149,13 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 aster-cloud-cpanal-for-competing-server</h2>
+<h2 align="center">🚀 JF-Fashion-Cloth-Store-website</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-HTML-e34c26?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-CSS-563d7c?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
@@ -165,7 +165,7 @@
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/aster-cloud-cpanal-for-competing-server">
+<a href="https://github.com/AdeebTechLab/JF-Fashion-Cloth-Store-website">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
