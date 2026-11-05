@@ -112,7 +112,7 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 Real-Estate-websites</h2>
+<h2 align="center">🚀 Lans-Graphy-Photography-Studio-Website</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
@@ -128,7 +128,7 @@
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/Real-Estate-websites">
+<a href="https://github.com/AdeebTechLab/Lans-Graphy-Photography-Studio-Website">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
@@ -189,13 +189,13 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 Northstar-Cloud-Computing-Admin-and-Customer-panel-Website</h2>
+<h2 align="center">🚀 Real-Estate-websites</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-TypeScript-3178c6?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-HTML-e34c26?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
@@ -205,7 +205,7 @@
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/Northstar-Cloud-Computing-Admin-and-Customer-panel-Website">
+<a href="https://github.com/AdeebTechLab/Real-Estate-websites">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
@@ -226,13 +226,13 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 Medical-Store-Website</h2>
+<h2 align="center">🚀 Northstar-Cloud-Computing-Admin-and-Customer-panel-Website</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-Other-8892B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-TypeScript-3178c6?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
@@ -242,7 +242,7 @@
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/Medical-Store-Website">
+<a href="https://github.com/AdeebTechLab/Northstar-Cloud-Computing-Admin-and-Customer-panel-Website">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
