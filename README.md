@@ -112,6 +112,83 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
+<h2 align="center">🚀 Akhoon-Traders-E-commerce-website-and-admin-panel</h2>
+
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/●-TypeScript-3178c6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+</p>
+
+<br>
+
+<a href="https://github.com/AdeebTechLab/Akhoon-Traders-E-commerce-website-and-admin-panel">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+<td width="50%" valign="top" align="center" style="border:none;">
+
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
+    border-collapse:collapse;
+    background:transparent;
+  ">
+<tr style="border:none;">
+<td align="center" style="border:none;">
+
+<h2 align="center">🚀 Image-Gallery-website</h2>
+
+<hr style="border:none; border-top:1px solid #30363d; width:80%;">
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
+
+</p>
+
+<br>
+
+<a href="https://github.com/AdeebTechLab/Image-Gallery-website">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+<tr style="border:none;">
+
+<td width="50%" valign="top" align="center" style="border:none;">
+
+<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
+    border:none !important;
+    border-collapse:collapse;
+    background:transparent;
+  ">
+<tr style="border:none;">
+<td align="center" style="border:none;">
+
 <h2 align="center">🚀 Complete-product-listing-creation-ai-ml-generator</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
@@ -166,83 +243,6 @@
 <br>
 
 <a href="https://github.com/AdeebTechLab/Fitness-Gym-Website">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-
-<tr style="border:none;">
-
-<td width="50%" valign="top" align="center" style="border:none;">
-
-<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
-    border:none !important;
-    border-collapse:collapse;
-    background:transparent;
-  ">
-<tr style="border:none;">
-<td align="center" style="border:none;">
-
-<h2 align="center">🚀 website-development-portfolio-Adeeb-Technology-Lab</h2>
-
-<hr style="border:none; border-top:1px solid #30363d; width:80%;">
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/●-HTML-e34c26?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
-
-</p>
-
-<br>
-
-<a href="https://github.com/AdeebTechLab/website-development-portfolio-Adeeb-Technology-Lab">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</td>
-
-
-<td width="50%" valign="top" align="center" style="border:none;">
-
-<table width="440" height="240" cellpadding="18" cellspacing="0" border="0" style="
-    border:none !important;
-    border-collapse:collapse;
-    background:transparent;
-  ">
-<tr style="border:none;">
-<td align="center" style="border:none;">
-
-<h2 align="center">🚀 Find-your-next-favorite-movie-Ai-and-Ml</h2>
-
-<hr style="border:none; border-top:1px solid #30363d; width:80%;">
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/●-Python-3572A5?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
-
-</p>
-
-<br>
-
-<a href="https://github.com/AdeebTechLab/Find-your-next-favorite-movie-Ai-and-Ml">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
