@@ -189,15 +189,15 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 health-monitoring-Webapp</h2>
+<h2 align="center">🚀 Docter-Medical-Store-Website</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-PHP-4F5D95?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐-1-FF8E01?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/🍴-0-CCD6F6?style=flat-square"/>
 
@@ -205,7 +205,7 @@
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/health-monitoring-Webapp">
+<a href="https://github.com/AdeebTechLab/Docter-Medical-Store-Website">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
@@ -226,13 +226,13 @@
 <tr style="border:none;">
 <td align="center" style="border:none;">
 
-<h2 align="center">🚀 Akhoon-Traders-E-commerce-website-and-admin-panel</h2>
+<h2 align="center">🚀 health-monitoring-Webapp</h2>
 
 <hr style="border:none; border-top:1px solid #30363d; width:80%;">
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/●-TypeScript-3178c6?style=flat-square"/>
+<img src="https://img.shields.io/badge/●-JavaScript-f1e05a?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/⭐-0-FF8E01?style=flat-square"/>
 
@@ -242,7 +242,7 @@
 
 <br>
 
-<a href="https://github.com/AdeebTechLab/Akhoon-Traders-E-commerce-website-and-admin-panel">
+<a href="https://github.com/AdeebTechLab/health-monitoring-Webapp">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A1628?style=for-the-badge&logo=github&logoColor=FF8E01&labelColor=0A1628&color=0A1628"/>
 </a>
 
